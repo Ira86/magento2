@@ -28,6 +28,7 @@
             </block>
             <referenceBlock name="report.bugs" remove="true"/>
             <referenceBlock name="footer" remove="true"/>
+            <referenceBlock name="form.subscribe" remove="true"/>
         </referenceContainer>
         <referenceContainer name="page.wrapper">
             <block class="Magento\Framework\View\Element\Template" as="bentriz.above" name="bentriz.above" template="Hiddentechies_Bentriz::bentrizabove.phtml" before="main.content" />
